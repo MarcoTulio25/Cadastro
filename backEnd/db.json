@@ -1,0 +1,43 @@
+{
+  "user":[{
+    "id": 1,
+    "name": "Ricardo",
+    "email": "ricardo@gmail.com"
+  }, {
+    "id": 2,
+    "name": "Tônico",
+    "email": "tonim@gmail.com"
+  }, {
+    "id": 3,
+    "name": "Corsim",
+    "email": "corsim@gmail.com"
+  }, {
+    "id": 4,
+    "name": "Cornão",
+    "email": "cornao@gmail.com"
+  }, {
+    "id": 5,
+    "name": "Suco se Fruta",
+    "email": "suquim@frutinha.com"  
+  }, {
+    "id": 6,
+    "name": "Pimenta",
+    "email": "pimentinha@gmail.com"
+  }, {
+    "id": 7,
+    "name": "Cabeça de Lâmpada",
+    "email": "cabeçç@gmail.com"
+  }, {
+    "id": 8,
+    "name": "Potim",
+    "email": "potim@gmail.com"
+  }, {
+    "id": 9,
+    "name": "Yan",
+    "email": "yan@gmail.com"
+  }, {
+    "id": 10,
+    "name": "Ti Girso",
+    "email": "danadinha@gmail.com"
+  }]
+}
